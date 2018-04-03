@@ -36,6 +36,28 @@
         "candy sprinkles"
       ],
       "image": "strawberry-sprinkle.svg"
+    },
+    {
+      "name": "Lucky Lime",
+      "calories": 325,
+      "type": "sorbet",
+      "ingredients": [
+        "lime purée",
+        "skittles",
+        "lots of sugar"
+      ],
+      "image": "ice-cream-xtra1.svg"
+    },
+    {
+      "name": "Crazy Creamy Cookie",
+      "calories": 450,
+      "type": "ice cream",
+      "ingredients": [
+        "really heavy cream",
+        "chocolate chips",
+        "cookie pieces"
+      ],
+      "image": "ice-cream-xtra2.svg"
     }
   ]
 }
